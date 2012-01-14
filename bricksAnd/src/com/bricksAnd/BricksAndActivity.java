@@ -3,7 +3,6 @@ package com.bricksAnd;
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.bricks.Bricks;
 
-import android.app.Activity;
 import android.os.Bundle;
 
 public class BricksAndActivity extends AndroidApplication {
